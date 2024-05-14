@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+### Register No: 212223230088
+### Name: Jayasuriya J
 
 ## Aim: 
 To perform a study on Socket Programming
